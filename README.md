@@ -1,6 +1,6 @@
 # Hours_analysis_side_project
 
-This was a quick side project based on to answer questions posed by the sale's team:
+This was a quick side project based on hours_analysis project to answer questions posed by the sale's team:
 Questions from Susanna to be addressed in the analysis:
 - Exclude RAE (division) and SN (client).
 - Exclude 2024 data, as many searches may not have billed yet.
